@@ -1,2 +1,2 @@
 # Algorithms
-This Repository Is For Algorithms only.
+Copyright © 2024 Nabarun Samaddar. All Rights Reserved.
